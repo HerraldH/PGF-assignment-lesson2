@@ -13,3 +13,17 @@ het eind.
 
 • Denk ook na over welke tekst je wilt printen, welk verhaal je wilt 
 vertellen
+
+# Bonus
+Pas je game aan.
+
+• Ga terug naar je eigen game
+
+• Zorg dat je de input valideert (dus alleen geldige input, zoals “red” en 
+“blue” als dat je keuzes zijn)
+
+• Gebruik hiervoor een while-loop.
+
+• Zorg ook dat je de game opnieuw kunt starten op het eind.
+
+• Gebruik hier ook een while-loop voor.
